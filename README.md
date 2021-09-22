@@ -1,59 +1,26 @@
-# Name: Noar Rassam
+## UI
 
-# Computer Crew - Mern Stack Project
+In the project directory, you can run:
 
-# Deployment Link: 
-* https://stormy-dusk-51591.herokuapp.com/
+### Quick Start
+```javascript
+// Install dependencies
+npm install or yarn install
 
-## Description
-It's Full stack MERN application with a custom Express backend API that uses JWT (JSON Web Token) for authentication.
+//start the client
+npm start or yarn start
+```
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Used
-* React Fundamentals (Components, props, state, etc).
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
 
-* React Hooks (useState, useEffect, useContext, useReducer, useRef).
 
-* Context API & App Level State.
+## API
 
-* MERN - MongoDB, Express React, Node.
+Checkout to api directory then you can run:
 
-* Custom API With JWT Authentication.
+### `nodemon server`
 
-* Full Calendar.
-
-## Features
-1. Login & Registration.
-2. Manage Contact Lists.
-3. Full Calendar.
-
-## References
-
-* Traversy, B. 2021. Project 2 Start [Contact Keeper - MERN] & Express Server Setup [React Front To Back](https://www.udemy.com/course/modern-react-front-to-back/).
-
-## **Login**
-
-![![Login]()](https://github.com/noarrassam/MernStack-Login-Contacts-Calendar/blob/master/images/1.JPG)
-
-## **Registration**
-
-![![Registration]()](https://github.com/noarrassam/MernStack-Login-Contacts-Calendar/blob/master/images/2.JPG)
-
-## **Add Contacts**
-
-![![Add Contacts]()](https://github.com/noarrassam/MernStack-Login-Contacts-Calendar/blob/master/images/3.JPG)
-
-## **Contacts**
-
-![![Contacts]()](https://github.com/noarrassam/MernStack-Login-Contacts-Calendar/blob/master/images/6.JPG)
-
-## **Calendar**
-
-![![Calendar]()](https://github.com/noarrassam/MernStack-Login-Contacts-Calendar/blob/master/images/7.JPG)
-
-## **Add Events**
-
-![![Add Events]()](https://github.com/noarrassam/MernStack-Login-Contacts-Calendar/blob/master/images/8.JPG)
-
-## **Calendar Events**
-
-![![Calendar Events]()](https://github.com/noarrassam/MernStack-Login-Contacts-Calendar/blob/master/images/9.JPG)
+Runs the node server and page will reload if you make any edits
